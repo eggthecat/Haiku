@@ -1,6 +1,6 @@
 # Haiku Checker
 
-####Epicodus Project Test driven Development, September 2019
+#### Epicodus Project Test driven Development, September 2019
 
 #### By Erin and Dom
 
